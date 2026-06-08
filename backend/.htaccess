@@ -1,0 +1,3 @@
+# Bloquear el acceso web directo a esta carpeta por razones de seguridad.
+# Laravel se ejecuta a través del index.php de la raíz, por lo que el acceso directo no es necesario.
+Require all denied
